@@ -1,0 +1,17 @@
+{
+    "name": "vcico/uploader",
+    "autoload": {
+        "psr-4": {
+            "Vcico\\Uploader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cgjcgs",
+            "email": "cgjcgs@163.com"
+        }
+    ],
+    "require": {
+        "php" : "^7.3"
+    }
+}
